@@ -9,4 +9,3 @@ Add reviewed, redacted screenshots here. Suggested filenames:
 5. `05-group-policy-results.png` — successful Group Policy Results report.
 6. `06-successful-logon-events.png` — relevant Event ID 4624 review.
 
-Before committing, crop and redact any personal information, real credentials, IP addresses, machine identifiers, or unrelated desktop content. Use only screenshots from this isolated lab.
