@@ -131,4 +131,4 @@ Active Directory administration · Windows Server · Windows 11 troubleshooting 
 
 ## Safety and scope
 
-This project was performed in an isolated, self-managed virtual lab using a fictional test identity. Do not publish real usernames, passwords, domain details, IP addresses, SIDs, or unredacted security-event data from production environments. Review and redact screenshots before committing them.
+This project was performed in an isolated, self-managed virtual lab using a fictional test identity. Do not publish real usernames, passwords, domain details, IP addresses, SIDs, or unredacted security-event data from production environments. 
