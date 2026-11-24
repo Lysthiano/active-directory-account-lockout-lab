@@ -12,9 +12,3 @@ This folder contains reviewed, redacted screenshots from the isolated Active Dir
 | `04-client-secure-channel.png` | `Test-ComputerSecureChannel -Verbose` | `True` and the healthy secure-channel message are visible; interactive username redacted. |
 | `05-group-policy-results.png` | Group Policy Results report | Successful component statuses and applied GPO section are visible; user identity redacted. |
 | `06-successful-logon-events.png` | Successful logon event details | Successful-logon message, logon type, and Kerberos authentication details are visible. The event ID itself is not shown in this crop, so capture the Event Viewer header or `Id` field if you need explicit 4624 proof. |
-
-## Before publishing
-
-- These are photographs of the VM display, not direct screen captures. Replace them with direct VM screenshots when practical for a cleaner portfolio.
-- Review the redactions at full size before committing. Do not publish passwords, real credentials, production identifiers, or unredacted SIDs.
-- The two noted evidence gaps (`badPwdCount` final value and visible Event ID 4624) should be closed with fresh screenshots if the repository claims those exact values as screenshot-verified.
